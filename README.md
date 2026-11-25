@@ -1,4 +1,4 @@
-![İrem Yıldırım](https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:7C3AED&height=160&text=Helin%20Akpolat&fontColor=FFFFFF&fontSize=44)
+![İrem Yıldırım](https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:7C3AED&height=160&text=İrem%20Yıldırım&fontColor=FFFFFF&fontSize=44)
 
 ![C#](https://img.shields.io/badge/C%23-512BD4)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4)
